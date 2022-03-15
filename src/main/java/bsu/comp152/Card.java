@@ -7,7 +7,7 @@ package bsu.comp152;
  *
  * modified by Laura K. Gross
  *
- * DO NOT MODIFY THIS FILE.
+ * DO NOT MODIFY THIS FILE
  */
 public class Card {
 
